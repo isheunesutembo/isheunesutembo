@@ -4,6 +4,7 @@
 - 📫 How to reach me  isheunesu48@gmail.com
 - Check out my youtube channel-https://www.youtube.com/channel/UCGfU4kZ0QHYriCMLhBoC1aA
 - Checkout my blog-https://isheunesu.hashnode.dev/
+- LinkedIn -https://www.linkedin.com/in/isheunesu-tembo-ab340b148/
 
 <!---
 isheunesutembo/isheunesutembo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
